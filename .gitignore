@@ -1,0 +1,22 @@
+# Media files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Audio
+*.wav
+*.mp3
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+*.sqlite3
+*.db
+
+# OS clutter
+.DS_Store
+Thumbs.db
